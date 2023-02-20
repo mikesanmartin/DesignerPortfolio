@@ -35,8 +35,6 @@ function NavBar(){
         setAnchorElUser(null);
     };
 
-    const SplitPages = pages.splice
-    console.log(SplitPages)
     return(
         <AppBar position="static">
       <Container maxWidth="xl">
